@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Soham Kasar**, a **DevOps Engineer** from 🇮🇳 with 3 years of professional experience. I'm passionate about automating cloud infrastructure and delivering robust CI/CD pipelines. 🎯
+I am **Soham Kasar**, a **DevOps Engineer** with 3 years of professional experience. I'm passionate about automating cloud infrastructure and delivering robust CI/CD pipelines. 🎯
 
 I mostly work with **Cloud Platform(AWS)**, **CI/CD Tools**, and **Containerization Technologies**. 🚀
 
