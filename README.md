@@ -11,7 +11,7 @@
   </a>
 </p>
 
-[![Intro](https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif)](https://linktr.ee/Sohamkasar)
+[![Intro](https://raw.githubusercontent.com/soham/soham/master/intro.gif)](https://linktr.ee/Sohamkasar)
 
 ## :book: About Me
 - 🔭 Currently working as a **Cloud DevOps Engineer**, focusing on building [CI/CD Pipelines](https://github.com/Soham2431/Ultimate-CI-CD-pipeline)
